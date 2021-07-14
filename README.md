@@ -180,7 +180,9 @@ sudo python3 setup.py install
 
 ## 5.安装paddlepaddle 2.0.0
 下载[编译好的paddlepaddle](https://paddle-inference-dist.cdn.bcebos.com/temp_data/paddlepaddle_gpu-0.0.0-cp36-cp36m-linux_aarch64.whl)
+
 然后pip安装Jetson Nano版本的Paddle Inference。（也可进行源码编译安装）
 [https://blog.csdn.net/weixin_45449540/article/details/107704028](https://blog.csdn.net/weixin_45449540/article/details/107704028)
+
 `pip install paddlehub`
 
